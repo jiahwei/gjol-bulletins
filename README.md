@@ -1,1 +1,1 @@
-# gjol-bulletins
+# 保存下载的古网公告
